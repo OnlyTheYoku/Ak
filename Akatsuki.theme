@@ -1,0 +1,24 @@
+/**
+ * @name Akatsuki
+ * @author Yoku#9153
+ * @version 1.0
+ * @description The Akatsuki.
+ * @source aka
+*/
+
+@import url('https://clearvision.gitlab.io/v6/main.css');
+/**
+* @ Made By -https://betterdiscord.app/developer/untuned
+*/
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://cdn.discordapp.com/attachments/815355904907673672/857384545443905566/302366.png');
+    --home-image: url('https://cdn.discordapp.com/attachments/815355904907673672/857384545443905566/302366.png');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
